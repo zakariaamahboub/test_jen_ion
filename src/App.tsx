@@ -40,6 +40,7 @@ import './global.css';
 
 const App: React.FC = () => (
   console.log(test)
+----------------- 12
   <IonApp>
     <IonReactRouter>
       <IonTabs>
